@@ -50,8 +50,10 @@ class parkingGarage():
 
 mall_lot = parkingGarage(40, 40, {})
 
+mall_lot.takeTicket()
 
-mall_lot.payForParking()
+
+
 
 
 
